@@ -19,4 +19,8 @@ public class Class1 {
         a = a+1;
     }
 
+    private void f4(){
+
+    }
+
 }
