@@ -15,6 +15,8 @@ public class Class1 {
 
     private void f3(){
         // v3.0
+        int a = 0;
+        a = a+1;
     }
 
 }
